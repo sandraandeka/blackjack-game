@@ -1,0 +1,24 @@
+body{
+font-family: 'Trebuchet Ms';
+font-size: 1.5rem;
+font-weight: bold;
+background-image:url('images/bright-red-dices-casino-chips-green-poker-background.jpg');
+color: white;
+text-align: center;
+}
+h1 {
+  color: #DAA520;
+}
+#message-el {
+font-style: italic;
+}
+button{
+  color: #016f32;
+  font-weight: bold;
+  width: 150px;
+  background-color: goldenrod;
+  border : none;
+  border-radius: 2px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
